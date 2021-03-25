@@ -1,0 +1,15 @@
+base
+base-devel
+linux
+linux-firmware
+linux-headers
+sudo
+neovim
+git
+zsh
+zsh-completions
+grml-zsh-config
+kbd
+terminus-font
+posix
+openssh
